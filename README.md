@@ -12,6 +12,15 @@ anymore.
 This program will rewrite these third-party assemblies to reference the signed
 platform versions instead.
 
+Compilation
+===========
+
+Just open the solution in Xamarin Studio and compile.
+
+
+Usage
+=====
+
 This is a command line program, so after compiling the project, you need to
 open a terminal window, navigate to the project directory and execute:
 
